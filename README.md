@@ -3,6 +3,5 @@
 
 ## malloc
 
-<br>
 
 - `malloc()` 
