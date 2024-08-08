@@ -2,6 +2,4 @@
 <br>
 
 ## malloc
-
-
 - `malloc()` 
