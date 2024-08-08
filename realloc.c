@@ -13,6 +13,7 @@ int main(){
     for(i=0; i<n; i++){
         ptr[i] = i;
         printf("\n%d -> %p", ptr[i], ptr+i);
+        
     }
 
     n = n+5;
