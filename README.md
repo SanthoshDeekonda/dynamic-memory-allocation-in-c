@@ -7,3 +7,7 @@ Dynamic memory allocation is the process of assigning the memory space during th
 - It takes the numbers of bytes you want to allocate in `size_t` as input
 - malloc returns a `void*` pointer to the allocated space
 
+```
+int* ptr (int*)malloc(10*sizeof(int);
+
+```
