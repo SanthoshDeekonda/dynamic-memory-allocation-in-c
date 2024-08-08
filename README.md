@@ -4,4 +4,4 @@ Dynamic memory allocation is the process of assigning the memory space during th
 
 ## malloc
 - `malloc()` is funtion available in `<stdlib.h>` c library
-- 
+- It takes the numbers of bytes you want to allocate in `size_t` input
