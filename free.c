@@ -4,7 +4,7 @@
 
 int main(){
 
-    //allocating memory
+    //allocating memory 
     int* ptr = (int*)malloc(4);
 
     printf("%zu bytes", sizeof(*ptr));
@@ -12,7 +12,7 @@ int main(){
     printf("\n%d", *ptr);
     
     free(ptr);
-    
+
     printf("\n%d", *ptr);
 
     return 0;   
